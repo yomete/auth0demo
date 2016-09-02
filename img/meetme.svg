@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="91px" height="105px" viewBox="0 0 91 105" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Wireframes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1---Final" transform="translate(-531.000000, -157.000000)">
+            <g id="Page-1" transform="translate(531.000000, 157.000000)">
+                <polygon id="Fill-1" fill="#FCB83F" points="45.1593 0.0008 0.0003 26.0728 0.0003 78.2178 45.1593 52.1458"></polygon>
+                <polygon id="Fill-2" fill="#A02605" points="45.1593 0.0008 45.1593 52.1458 90.3183 78.2178 90.3183 26.0728"></polygon>
+                <polygon id="Fill-3" fill="#EC5424" points="0 78.218 45.159 104.291 90.319 78.218 45.159 52.146"></polygon>
+                <g id="Group-14" transform="translate(19.000000, 32.291000)">
+                    <path d="M44.6944,0.44 L7.6234,0.44 C3.8564,0.44 0.8014,3.495 0.8014,7.262 L0.8014,32.37 C0.8014,36.138 3.8564,39.193 7.6234,39.193 L44.6944,39.193 C48.4624,39.193 51.5164,36.138 51.5164,32.37 L51.5164,7.262 C51.5164,3.495 48.4624,0.44 44.6944,0.44" id="Fill-4" fill="#FFFFFF"></path>
+                    <polygon id="Fill-6" fill="#FFFFFF" points="26.1591 47.0953 18.2561 39.1923 26.1591 31.2903 34.0621 39.1923"></polygon>
+                    <path d="M11.4636,13.2244 L40.8546,13.2244" id="Stroke-8" stroke="#222228"></path>
+                    <path d="M11.4636,19.8056 L40.8546,19.8056" id="Stroke-10" stroke="#222228"></path>
+                    <path d="M11.4636,26.3869 L40.8546,26.3869" id="Stroke-12" stroke="#222228"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
