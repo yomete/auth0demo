@@ -701,7 +701,9 @@ div.hidden {
 .foryou-inner {
     font-size: 15px;
 }
-
+.foryou {
+    margin-bottom: 40px;
+}
 
 /*media queries */
 @media (min-width : 768px) {
